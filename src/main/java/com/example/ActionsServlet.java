@@ -96,5 +96,4 @@ public class ActionsServlet extends HttpServlet {
     }
     return map;
   }
-
 }
